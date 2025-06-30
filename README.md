@@ -14,7 +14,7 @@ Python
 
 Libraries: Pandas, Matplotlib
 
-## How to run
+## Requirements to run
 
 - Install Python 3.8 or higher (tested with Python 3.13)
 - pip install pandas matplotlib
