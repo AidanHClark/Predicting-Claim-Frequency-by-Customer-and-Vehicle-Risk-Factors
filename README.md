@@ -24,6 +24,7 @@ Libraries: Pandas, Matplotlib
 ![image](https://github.com/user-attachments/assets/114df831-cb0f-414f-8d4b-0e1b311ea0bf)
 
 
-![image](https://github.com/user-attachments/assets/bfbd236b-48ea-4c65-884d-6b557d5e4c84)
+![image](https://github.com/user-attachments/assets/e8d95264-18de-4658-91ca-42f944fbbe3a)
 
-![image](https://github.com/user-attachments/assets/d7b10fa0-55b4-4aa3-9879-8d8906af6322)
+
+![image](https://github.com/user-attachments/assets/ebe5bfb0-7e19-4913-a4fa-279a490e21c9)
