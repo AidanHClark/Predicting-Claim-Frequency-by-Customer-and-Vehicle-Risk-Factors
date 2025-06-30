@@ -1,4 +1,4 @@
-# Predicting-Claim-Frequency-by-Customer-and-Vehicle-Risk-Factors
+# Predicting Claim Frequency by Customer and Vehicle Risk Factors
 
 Initial Data: https://www.kaggle.com/datasets/litvinenko630/insurance-claims/data 
 
