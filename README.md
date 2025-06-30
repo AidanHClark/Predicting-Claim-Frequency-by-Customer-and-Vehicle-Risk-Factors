@@ -21,8 +21,8 @@ Libraries: Pandas, Matplotlib
 
 
 **Plots**
+![image](https://github.com/user-attachments/assets/114df831-cb0f-414f-8d4b-0e1b311ea0bf)
 
-![image](https://github.com/user-attachments/assets/6817aa1b-52c9-4d2f-83bd-7b84f3047d26)
 
 ![image](https://github.com/user-attachments/assets/bfbd236b-48ea-4c65-884d-6b557d5e4c84)
 
